@@ -3,6 +3,7 @@ import { Space_Grotesk, JetBrains_Mono } from "next/font/google";
 import { ThemeProvider } from "@/components/theme-provider";
 import Navbar from "@/components/navbar";
 import "./globals.css";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export const metadata: Metadata = {
   title: "Jet Kwok",
@@ -46,6 +47,7 @@ export default function RootLayout({
           <Navbar />
           <main className="mb-10">{children}</main>
         </ThemeProvider>
+        <SpeedInsights />
       </body>
     </html>
   );

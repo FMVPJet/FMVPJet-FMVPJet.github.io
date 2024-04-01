@@ -23,13 +23,16 @@ export default function WorkPage() {
       <div className="prose prose-neutral dark:prose-invert">
         <p>
           <li>
+            <strong>[2024/04/01]</strong> &nbsp;&nbsp; Release a new new Personal Websites!
+          </li>
+          <li>
             <strong>[2023/11/15]</strong> &nbsp;&nbsp; Starting my new job at iFLYTEK!
           </li>
           <li>
             <strong>[2023/08/18]</strong> &nbsp;&nbsp; Patent <a href="https://worldwide.espacenet.com/patent/search/family/086876285/publication/CN116342434A?q=pn%3DCN116342434A" target="_blank">《An Image Processing Method, Device, Equipment and Storage Medium》</a> was Published!
           </li>
           <li>
-            <strong>[2023/08/03]</strong> &nbsp;&nbsp; Release a new Personal websites!
+            <strong>[2023/08/03]</strong> &nbsp;&nbsp; Release a new Personal Websites!
           </li>
         </p>
         <hr className="my-6 border-neutral-100 dark:border-neutral-800" />
