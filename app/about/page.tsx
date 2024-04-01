@@ -117,13 +117,7 @@ export default function WorkPage() {
         </p>
         <hr className="my-6 border-neutral-100 dark:border-neutral-800" />
 
-
-        <p>
         <br/><br/>
-        Thanks for <a href="https://leerob.io/" target="_blank">Mr.Leerob </a>
-        and <a href="https://nisabmohd.vercel.app/" target="_blank">Mr.Nisab Mohd</a><br/>
-        Copyright © 2024 Jet Kwok | Published with <a href="https://pages.github.com" target="_blank">GitHub Pages</a>
-        </p>
       </div>
     </section>
   );
