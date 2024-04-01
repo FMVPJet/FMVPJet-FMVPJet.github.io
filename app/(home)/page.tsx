@@ -19,7 +19,7 @@ export default function Home() {
           and a commitment to delivering innovative solutions. With expertise in a wide range of
           technologies, including Python, PyTorch, OpenCV, C++ and MATLAB. I am well-equipped to
           tackle complex projects and create seamless, user-centric experiences.
-          Whether it's algorithm optimization and design, model deployment,
+          Whether it&apos;s algorithm optimization and design, model deployment,
           project operation and maintenance, I thrive on turning challenges into opportunities for
           growth and innovation.
         </p>
